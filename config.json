@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingderify",
+        "uuid": 1390398,
+        "checksum": "4mhzu9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
